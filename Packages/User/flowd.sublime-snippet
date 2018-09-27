@@ -1,0 +1,36 @@
+<snippet>
+	<content><![CDATA[
+\begin{tikzpicture}[
+	% roundnode/.style={circle, draw=green!60, fill=green!5, very thick, minimum size=7mm},
+	squarednode/.style={rectangle, draw=red!60, fill=red!5, very thick, minimum size=5mm},
+	]
+	%Nodes
+	\node[squarednode] (first) 					     {$1};
+	\node[squarednode] (second)  [right=of first]    {$2};
+	\node[squarednode] (third)   [right=of second]   {$3};
+	\node[squarednode] (fourth)  [right=of third]    {$4};
+	\node[squarednode] (fifth)   [right=of fourth]   {$5};
+	\node[squarednode] (sixth)   [right=of fifth]    {$6};
+	\node[squarednode] (seventh) [right=of sixth]    {$7};
+	\node[squarednode] (eight)   [right=of seventh]  {$8};
+	\node[squarednode] (ninth)   [right=of eight]    {$9};
+	\node[squarednode] (tenth)   [right=of ninth]    {$10};
+	%Lines
+	\draw[ultra thick, ->] (first.east) -- (second.west);
+	\draw[ultra thick, ->] (second.east) -- (third.west);
+	\draw[ultra thick, ->] (third.east) -- (fourth.west);
+	\draw[ultra thick, ->] (fourth.east) -- (fifth.west);
+	\draw[ultra thick, ->] (fifth.east) -- (sixth.west);
+	\draw[ultra thick, ->] (sixth.east) -- (seventh.west);
+	\draw[ultra thick, ->] (seventh.east) -- (eight.west);
+	\draw[ultra thick, ->] (eight.east) -- (ninth.west);
+	\draw[ultra thick, ->] (ninth.east) -- (tenth.west);	
+\end{tikzpicture}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>flowd</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex</scope>
+	<!-- Optional: Description to show in the menu -->
+    <description>Flow Diagram</description>
+</snippet>

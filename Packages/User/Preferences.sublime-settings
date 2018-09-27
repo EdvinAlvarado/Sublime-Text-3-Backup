@@ -1,0 +1,38 @@
+{
+	"added_words":
+	[
+		"dibromochloromethane",
+		"pdflatex",
+		"Bioseperations",
+		"tex",
+		"rugorosity",
+		"polyamine",
+		"Fundraiser",
+		"gauge"
+	],
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"AutoFileName",
+		"Markdown",
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"0s",
+		"1cm",
+		"1em",
+		"arabic",
+		"bromodichloromethane",
+		"calc",
+		"inline",
+		"mary",
+		"origo",
+		"secnumdepth",
+		"squarednode",
+		"tocdepth",
+		"trihalomethane"
+	],
+	"spell_check": true,
+	"theme": "Default.sublime-theme"
+}
