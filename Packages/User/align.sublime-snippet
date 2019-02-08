@@ -2,7 +2,7 @@
 	<content><![CDATA[
 \begin{align*}
 	$1
-\end{align*}
+\end{align*}$0
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>align</tabTrigger>

@@ -8,9 +8,25 @@
 		"rugorosity",
 		"polyamine",
 		"Fundraiser",
-		"gauge"
+		"gauge",
+		"Replicon",
+		"online",
+		"admin",
+		"Edvin"
 	],
-	"font_size": 11,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		}
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"font_size": 17,
 	"ignored_packages":
 	[
 		"AutoFileName",

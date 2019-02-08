@@ -11,8 +11,15 @@
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
+		"Google Dictionary",
 		"ImageMagick",
+		"LanguageTool",
+		"LaTeX Accents",
+		"LaTeX Word Count",
+		"LaTeX-cwl",
+		"LaTeXTab",
 		"LaTeXTools",
+		"LaTeXYZ",
 		"MarkdownEditing",
 		"MarkdownLivePreview",
 		"MarkdownPreview",
@@ -21,6 +28,7 @@
 		"Sublime Bookmarks",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeREPL",
 		"Terminal"
 	]
 }
