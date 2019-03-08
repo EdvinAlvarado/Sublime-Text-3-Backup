@@ -7,10 +7,14 @@
 	[
 		"AdvancedNewFile",
 		"Alignment",
+		"Anaconda",
 		"AutoFileName",
+		"Better Bookmarks",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
+		"Djaneiro",
+		"GitGutter",
 		"Google Dictionary",
 		"ImageMagick",
 		"LanguageTool",
@@ -24,11 +28,14 @@
 		"MarkdownLivePreview",
 		"MarkdownPreview",
 		"Package Control",
+		"requirementstxt",
 		"SideBarEnhancements",
-		"Sublime Bookmarks",
+		"SQLTools",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeREPL",
+		"SublimeLinter-clang",
+		"SublimeLinter-pycodestyle",
+		"SublimeLinter-pyflakes",
 		"Terminal"
 	]
 }

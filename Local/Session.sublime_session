@@ -1,28 +1,23 @@
 {
 	"folder_history":
 	[
-		"/B/eskalvarado/Google Drive/essays/Basic-Progressive-Tax-Model",
-		"/B/eskalvarado/Google Drive/essays/Tax Model",
-		"/B/eskalvarado/Google Drive/University/Statistical Methods/Goodness-of-Fit",
-		"/B/eskalvarado/Google Drive/Python/Iterator/iterate-solution",
-		"/B/eskalvarado/Google Drive/Python/Iterator",
-		"/B/eskalvarado/Google Drive/Python/Print Numbers Poisson",
-		"/B/eskalvarado/Google Drive/Python/Organize data to single column",
-		"/B/eskalvarado/Google Drive/Programming/Markdown",
-		"/B/eskalvarado/Google Drive/University/4th year - 1st semester/Heat Transfer Operations",
-		"/B/eskalvarado/Google Drive/Programming/R",
-		"/B/eskalvarado/Google Drive/Python/writing equation data points",
-		"/B/eskalvarado/Google Drive/Python/determinant of a matrix",
-		"/C/Users/eskalvarado/University Drive/Edvin5995/Documents/table 3 (WIP)/table 3 report",
-		"/B/eskalvarado/Google Drive/University/resume",
-		"/C/Users/eskalvarado/University Drive/Edvin5995/Documents/Peer Review (WIP)/report (WIP)"
+		"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/markov_chain",
+		"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Python Project",
+		"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Report",
+		"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Data Extractors",
+		"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project",
+		"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Replicon Project Power Query",
+		"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Sums Pay",
+		"/C/Users/Edvin Alvarado/Desktop/Edvin5995/Documents/table 3 (WIP)",
+		"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/User",
+		"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Report"
 	],
 	"last_version": 3176,
-	"last_window_id": 51,
+	"last_window_id": 63,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 840.0,
+		"new_window_height": 328.666666667,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -30,97 +25,45 @@
 				"selected_items":
 				[
 					[
-						"distr",
-						"distributions"
+						"sum",
+						"sum_pairs"
 					],
 					[
-						"def",
-						"def\tFunction"
+						"outpu",
+						"output.write(\"\\n"
 					],
 					[
-						"ch",
-						"chisqrd"
+						"todo",
+						"\\todo{text}                                       \ttodonotes"
 					],
 					[
-						"ad",
-						"addlist"
+						"useap",
+						"\\usepackage{package}                              \tlatex-document"
 					],
 					[
-						"f",
-						"factorial"
+						"foot",
+						"\\footnote{text}                                   \tlatex-document"
 					],
 					[
-						"int",
-						"integerlist〔function〕"
+						"titl",
+						"\\titlespacing*"
 					],
 					[
-						"data",
-						"datafile〔variable〕"
+						"usepa",
+						"\\usepackage{package}                              \tlatex-document"
 					],
 					[
-						"line",
-						"linenumbers〔variable〕"
+						"include",
+						"\\includegraphics[options]{name}                   \tlatex-document"
 					],
 					[
-						"list",
-						"listy"
-					],
-					[
-						"lsit",
-						"listx"
-					],
-					[
-						"li",
-						"listy"
-					],
-					[
-						"lie",
-						"linenumbers"
-					],
-					[
-						"lis",
-						"listy"
-					],
-					[
-						"my",
-						"my_list"
-					],
-					[
-						"ORde",
-						"OrderedHeight2"
-					],
-					[
-						"T",
-						"TempHeightList"
-					],
-					[
-						"out",
-						"output"
-					],
-					[
-						"write",
-						"writeaverage"
+						"begin",
+						"\\begin{figure}[placement]                         \tlatex-document"
 					]
 				]
 			},
 			"build_system_choices":
 			[
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						]
-					],
-					[
-						"Packages/C++/C++ Single File.sublime-build",
-						"Run"
-					]
-				],
 				[
 					[
 						[
@@ -162,6 +105,10 @@
 						[
 							"Packages/LaTeXTools/LaTeX.sublime-build",
 							"Script Builder"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
 						]
 					],
 					[
@@ -184,105 +131,113 @@
 						"Packages/Python/Python.sublime-build",
 						""
 					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
 				]
 			],
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 269.0,
+				"height": 0.0,
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"pla",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"time",
+						"Snippet: timepython"
+					],
+					[
+						"snippet",
+						"Snippet: Try/Except"
+					],
+					[
+						"Snippet: ",
+						"Snippet: __magic__"
+					],
 					[
 						"pdf",
 						"LaTeXTools: View PDF"
 					],
 					[
-						"preview",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"brows",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"markdow",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"text",
+						"plain",
 						"Set Syntax: Plain Text"
 					],
 					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"lpdf",
-						"LaTeXTools: Open Detexify"
-					],
-					[
-						"PDF",
-						"LaTeXTools: View PDF"
-					],
-					[
-						"comme",
-						"Toggle Comment"
-					],
-					[
-						"under",
-						"Snippet: Underline text"
-					],
-					[
-						"figure",
-						"Snippet: figure"
-					],
-					[
-						"remar",
-						"Snippet: Remark"
-					],
-					[
-						"tabul",
-						"Snippet: Tabular"
-					],
-					[
-						"graph",
-						"Snippet: Include graphics"
-					],
-					[
-						"figu",
-						"Snippet: Figure"
+						"",
+						"Arithmetic"
 					],
 					[
 						"insta",
 						"Package Control: Install Package"
 					],
 					[
-						"fig",
-						"Snippet: figure"
+						"Package Control: ",
+						"Package Control: List Packages"
 					],
 					[
-						"todo",
-						"Snippet: todo"
+						"decod",
+						"LaTeX Accents: Decode accents"
 					],
 					[
-						"section",
-						"Snippet: Section"
+						"accent",
+						"LaTeX Accents: Encode accents"
 					],
 					[
-						"comm",
-						"Toggle Comment"
-					],
-					[
-						"install",
+						"ins",
 						"Package Control: Install Package"
 					],
 					[
-						"Package Control: ins",
+						"inst",
 						"Package Control: Install Package"
+					],
+					[
+						"isnta",
+						"Package Control: Install Package"
+					],
+					[
+						"xe",
+						"Build With: LaTeX - Basic Builder - XeLaTeX"
+					],
+					[
+						"xete",
+						"Build With: LaTeX - Basic Builder - XeLaTeX"
+					],
+					[
+						"check",
+						"LaTeXTools: Check system"
+					],
+					[
+						"latex",
+						"Snippet: Insert a LaTeX environment"
+					],
+					[
+						"pytho",
+						"Build With: Python - Syntax Check"
 					]
 				],
-				"width": 476.0
+				"width": 0.0
 			},
 			"console":
 			{
@@ -302,82 +257,88 @@
 			},
 			"file_history":
 			[
-				"/B/eskalvarado/Google Drive/essays/Tax Model/taxmodel.sublime-project",
-				"/B/eskalvarado/Google Drive/University/Statistical Methods/Goodness-of-Fit/README.md",
-				"/B/eskalvarado/Google Drive/University/Statistical Methods/Goodness-of-Fit/test-list.py",
-				"/B/eskalvarado/Google Drive/University/Statistical Methods/Goodness-of-Fit/test.py",
-				"/B/eskalvarado/Google Drive/University/Statistical Methods/Goodness-of-Fit/goodnes-of-fit.py",
-				"/B/eskalvarado/Google Drive/University/Statistical Methods/goodness-of-fit.sublime-project",
-				"/B/eskalvarado/Google Drive/Python/intarray.py",
-				"/B/eskalvarado/Downloads/test.py",
-				"/B/eskalvarado/Google Drive/Python/Print Numbers Poisson/testfile.txt",
-				"/B/eskalvarado/Google Drive/Python/Print Numbers Poisson/write-numbers.py",
-				"/B/eskalvarado/Google Drive/Python/Organize data to single column/list.txt",
-				"/B/eskalvarado/Google Drive/Python/Organize data to single column/data.txt",
-				"/B/eskalvarado/Google Drive/Python/Organize data to single column/single-column.py",
-				"/B/eskalvarado/Google Drive/Python/writing equation data points/dataset.txt",
-				"/B/eskalvarado/Google Drive/Python/writing equation data points/graphdata.py",
-				"/B/eskalvarado/Google Drive/Python/writing equation data points/datapoint.py",
-				"/B/eskalvarado/Google Drive/University/4th year - 1st semester/Heat Transfer Operations/air conditioner simulation.py",
-				"/C/Users/eskalvarado/Desktop/test.cs",
-				"/B/eskalvarado/Google Drive/essays/Tax Model/Tsx Model.tex",
-				"/B/eskalvarado/Google Drive/latex/report template.tex",
-				"/B/eskalvarado/Google Drive/Python/CommonCharacterCount.py",
-				"/B/eskalvarado/Google Drive/Python/IncreasingSequenceProof.py",
-				"/B/eskalvarado/Google Drive/Python/SortByHeight.py",
-				"/B/eskalvarado/Downloads/SortbyHeight.cpp",
-				"/B/eskalvarado/Google Drive/Python/determinant of a matrix/classes/sarrus.py",
-				"/B/eskalvarado/Google Drive/Python/determinant of a matrix/rule of sarruss.py",
-				"/B/eskalvarado/Google Drive/Python/determinant of a matrix/test.py",
-				"/B/eskalvarado/Google Drive/Python/determinant of a matrix/determinant of matrix.py",
-				"/B/eskalvarado/Google Drive/Python/determinant of a matrix/classes/matrix.py",
-				"/B/eskalvarado/Google Drive/Python/determinant of a matrix/classes/__init__.py",
-				"/B/eskalvarado/Google Drive/University/resume/skills.txt",
-				"/B/eskalvarado/Google Drive/University/resume/resume.tex",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/Default (Windows).sublime-keymap",
-				"/B/eskalvarado/Google Drive/Python/file manegment testing/output.txt",
-				"/B/eskalvarado/Google Drive/Python/file manegment testing/data.txt",
-				"/B/eskalvarado/Google Drive/Python/file manegment testing/main.py",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/math parenthesis.sublime-snippet",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/math bracket.sublime-snippet",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/lsymbol.sublime-snippet",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/graphics.sublime-snippet",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/fraction.sublime-snippet",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/flowd.sublime-snippet",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/derivative.sublime-snippet",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/partial.sublime-snippet",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/defintion.sublime-snippet",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/align.sublime-snippet",
-				"/B/eskalvarado/Google Drive/University/Bioseperations/Notebook/Bioseparations notebook.tex",
-				"/C/Users/silry/AppData/Roaming/Sublime Text 3/Packages/User/derivative.sublime-snippet",
-				"/C/Users/silry/AppData/Roaming/Sublime Text 3/Packages/User/defintion.sublime-snippet",
-				"/C/Users/silry/AppData/Roaming/Sublime Text 3/Packages/User/fraction.sublime-snippet",
-				"/C/Users/silry/AppData/Roaming/Sublime Text 3/Packages/User/todo inline.sublime-snippet",
-				"/C/Users/silry/AppData/Roaming/Sublime Text 3/Packages/User/todo.sublime-snippet",
-				"/C/Users/silry/AppData/Roaming/Sublime Text 3/Packages/User/lsymbol.sublime-snippet",
-				"/C/Users/silry/AppData/Roaming/Sublime Text 3/Packages/User/graphics.sublime-snippet",
-				"/C/Users/silry/AppData/Roaming/Sublime Text 3/Packages/User/align.sublime-snippet",
-				"/C/Users/silry/AppData/Roaming/Sublime Text 3/Packages/User/flowd.sublime-snippet",
-				"/C/Users/silry/Google Drive/University/INQU lab1/Viscosity Report/table 3.bib",
-				"/C/Users/silry/Google Drive/University/INQU lab1/Viscosity Report/Viscosity Report.tex",
-				"/C/Users/silry/edvin.alvarado@upr.edu/Edvin5995/Documents/Peer Review (WIP)/concetration profile.py"
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Sums Pay/data.csv",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Sums Pay/speed.py",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/better sumspay.py",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/sumspay.py",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/User/timepython.sublime-snippet",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Report/Integration.tex",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/R",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Projects.txt",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/data-scrubber.py",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Project Billing 2019-02-13.xml",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Report/reference.bib",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Report/URS.sublime-project",
+				"/C/Users/Edvin Alvarado/Desktop/QB need to change",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/QB Projects.xlsx",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Project Billing 2019-02-12.xml",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Replicon Project Power Query/csv-output.txt",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Replicon Project Power Query/Project Billing 2019-02-12.csv",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Replicon Project Power Query/csv-scrubber.py",
+				"/C/Users/Edvin Alvarado/Downloads/Solar.tex",
+				"/C/Users/Edvin Alvarado/Downloads/Project Billing 2019-02-12.xml",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Report/Integration.log",
+				"/C/Users/Edvin Alvarado/Downloads/CBA.tex",
+				"/C/Users/Edvin Alvarado/Desktop/PaginationClass.py",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/User/Default/Default (Windows).sublime-keymap",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/Default (Windows).sublime-keymap",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/C/Users/Edvin Alvarado/Desktop/Edvin5995/Documents/table 3 (WIP)/Henry.py",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/User/vocabulary.txt",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/LaTeX Word Count/LaTeXWordCount.sublime-settings",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXWordCount.sublime-settings",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/LaTeXTools.sublime-settings",
+				"/C/Users/Edvin Alvarado/Downloads/data-pandas.py",
+				"/C/Users/Edvin Alvarado/Desktop/digroot.py",
+				"/C/Users/Edvin Alvarado/Downloads/data.txt",
+				"/C/Users/Edvin Alvarado/Downloads/learning.py",
+				"/C/Users/Edvin",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Alvarado/PythonEditorWrapper_f5f3e875-43c3-4bda-95dc-8f1efa99a70e/PythonEditorWrapper.PY",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Alvarado/PythonEditorWrapper_e7baf576-d5ac-4b81-9090-3baeb63a62d3/PythonEditorWrapper.PY",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Alvarado/PythonEditorWrapper_b7e2b9c3-b28e-415d-bea0-65dc1d86587e/PythonEditorWrapper.PY",
+				"/C/Users/Edvin Alvarado/Desktop/test.py",
+				"/C/Users/Edvin Alvarado/Desktop/python/fillarea.py",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings"
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 34.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 319.0,
 				"where_history":
 				[
 				]
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
+					"l1",
+					"&amp;",
+					"documentclass",
+					"fajardo",
+					"todo",
+					"MO",
+					"LightCyan",
+					"integration",
+					"todoAppendix",
+					"notes",
+					"\\emph{Right Networks}",
+					"footnote",
+					"defin",
+					"Objective",
+					"Installation and Use Guide",
+					"Miscellaneous",
+					"caveats",
+					"Cisco webex",
+					"pdflatex",
+					"pdf",
+					"section*",
+					"subsection"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -385,6 +346,19 @@
 				"regex": false,
 				"replace_history":
 				[
+					"lst",
+					"&",
+					"Cyan",
+					"todonote",
+					"Appendix",
+					"Right Networks",
+					"introduction",
+					"QB Integration Guide",
+					"Notes",
+					"Looming Questions",
+					"section",
+					"subsubsection",
+					"subsection*"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -394,37 +368,37 @@
 			},
 			"incremental_find":
 			{
-				"height": 33.0
+				"height": 34.0
 			},
 			"input":
 			{
-				"height": 94.0
+				"height": 109.0
 			},
 			"menu_visible": true,
 			"output.SublimeLinter":
 			{
-				"height": 0.0
+				"height": 375.0
 			},
 			"output.exec":
 			{
-				"height": 229.0
+				"height": 130.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
+			"output.languagetool":
+			{
+				"height": 180.0
+			},
 			"output.latextools":
 			{
-				"height": 213.0
-			},
-			"output.markdown":
-			{
-				"height": 132.0
+				"height": 63.0
 			},
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 62.0
+				"height": 64.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -458,13 +432,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 225.0,
+			"side_bar_width": 132.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1214.0
+		"new_window_width": 967.333333333
 	},
 	"windows":
 	[
@@ -474,144 +448,113 @@
 				"selected_items":
 				[
 					[
-						"code",
-						"codelength"
+						"pagen",
+						"\\pagenumbering{numstyle}                          \tlatex-document"
 					],
 					[
-						"ta",
-						"taxbr〔variable〕"
+						"subsub",
+						"\\subsubsection*{title}                            \tlatex-document"
 					],
 					[
-						"taxb",
-						"taxbrackets〔argument〕"
+						"footno",
+						"\\footnote{text}                                   \tlatex-document"
 					],
 					[
-						"tax",
-						"taxbrackets〔argument〕"
+						"center",
+						"\\centerwrap"
 					],
 					[
-						"distr",
-						"distributions"
+						"newcomm",
+						"\\newcommand{cmd}[args]{def}                       \tlatex-document"
 					],
 					[
-						"def",
-						"def\tFunction"
+						"arra",
+						"\\arraybackslash                                   \ttabularx"
 					],
 					[
-						"ch",
-						"chisqrd"
+						"vspa",
+						"\\vspace{length}                                   \tlatex-document"
 					],
 					[
-						"ad",
-						"addlist"
+						"inplace",
+						"inplace=True"
 					],
 					[
-						"f",
-						"factorial"
+						"drop",
+						"dropna"
 					],
 					[
-						"int",
-						"integerlist〔function〕"
+						"inpla",
+						"inplace=True"
+					],
+					[
+						"nan",
+						"nan1"
 					],
 					[
 						"data",
-						"datafile〔variable〕"
+						"datautil〔module〕"
 					],
 					[
-						"line",
-						"linenumbers〔variable〕"
+						"outpu",
+						"output.write(\"\\n"
 					],
 					[
-						"list",
-						"listy"
+						"todo",
+						"\\todo{text}                                       \ttodonotes"
 					],
 					[
-						"lsit",
-						"listx"
+						"useap",
+						"\\usepackage{package}                              \tlatex-document"
 					],
 					[
-						"li",
-						"listy"
+						"foot",
+						"\\footnote{text}                                   \tlatex-document"
 					],
 					[
-						"lie",
-						"linenumbers"
+						"titl",
+						"\\titlespacing*"
 					],
 					[
-						"lis",
-						"listy"
+						"usepa",
+						"\\usepackage{package}                              \tlatex-document"
 					],
 					[
-						"my",
-						"my_list"
+						"include",
+						"\\includegraphics[options]{name}                   \tlatex-document"
 					],
 					[
-						"ORde",
-						"OrderedHeight2"
-					],
-					[
-						"T",
-						"TempHeightList"
-					],
-					[
-						"out",
-						"output"
-					],
-					[
-						"write",
-						"writeaverage"
+						"begin",
+						"\\begin{figure}[placement]                         \tlatex-document"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "Couple 1st-order Diff Eq Notes.tex",
+					"contents": "\\documentclass[12pt]{article}\n\n\\usepackage{blindtext} %fake text generator\n\\usepackage[margin=0.75in]{geometry} %set margin\n\\usepackage{tabularx} %variable textwrap for tables\n\\usepackage{hhline} %avoids double line with spaces\n\\usepackage{xcolor,colortbl} %ses colors for table\n\\definecolor{Cyan}{rgb}{0,0.8,1}\n% \\usepackage{fontspec} \n% \\setmainfont{Times New Roman} %needs XeLaTeX\n\\usepackage{float} %permits big H\n\\usepackage{graphicx}\n% \\graphicspath{ {figures/} }\n\\usepackage{array} %many tabular and array goodness\n\\usepackage{multicol}\n\\usepackage{todonotes}\n\\usepackage{tocloft} %lower line space in the TOC\n\\renewcommand\\cftchapafterpnum{\\vskip10pt}\n\\renewcommand\\cftsecafterpnum{\\vskip15pt}\n\\usepackage[normalem]{ulem} % https://jansoehlke.com/2010/06/strikethrough-in-latex/\n\\usepackage{titlesec} %control space relatedd to titles\n\\PassOptionsToPackage{hyphens}{url}\\usepackage{hyperref}\n\\hypersetup{\n    colorlinks=true,\n    linkcolor=black,\n    filecolor=black,      \n    urlcolor=blue,\n    citecolor=blue,\n    pdftitle={Sharelatex Example},\n    pdfpagemode=FullScreen,\n    breaklinks=true,\n}\n\\usepackage[\n\tbackend=biber\t\n]{biblatex}\n\\addbibresource{reference.bib}\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\\titlespacing*{\\section}{0pt}{-0.5em}{0em}\n\\titlespacing*{\\subsection}{0pt}{-0.5em}{-0.5em}\n\\titlespacing*{\\subsubsection}{0pt}{-0.5em}{-1em}\n\n%%% Macros\n\\newcolumntype{P}[1]{>{\\centering\\arraybackslash}p{#1}}\n\\newcommand{\\centerwrap}[1]{\\begin{tabular}{@{}c@{}} #1 \\end{tabular}}\n%%% Title\n% \\title{Integration of Replicon and QuickBooks}\n% \\author{Edvin Alvarado}\n% \\date{\\today}\n\n% \\setcounter{secnumdepth}{0} %sections seem unnumbered. permits having unnumbured sections while appearing in the TOC.\n\\setlength\\parindent{0pt} %no indentation\n\\setlength{\\parskip}{1.5\\baselineskip} %1.5 space between paragraph\n\\begin{document}\n\\begin{titlepage}\n\t\\centering\n\t\\large\n\t{\\huge Project: Decreasing Billing Time}\n\n\t{\\Large Integrating Replicon and QuickBooks}\n\t\\vfill\n\t{\\Huge DRAFT}\n\t\\vfill\n\tEdvin Alvarado \\\\\n\tValidation \\& Engineering Group\n\n\t\\today\n\\end{titlepage}\n% \\thispagestyle{empty}\n% \\maketitle\n\\newpage\n\\pagenumbering{gobble}\n\\thispagestyle{empty}\n\\tableofcontents\n% \\listoffigures\n\\listoftables\n\\newpage\n\\pagenumbering{arabic}\n\n\\section{Introduction} % (fold)\n\\label{sec:introduction}\n\tBilling Process is taking more than a day to complete. This is attributed to the manual process of inputting Replicon worked times into QuickBooks. The goal is to find solutions to increase the speed of this process. This will be done by automating data entry between Replicon and QuickBooks, or finding alternatives for Replicon that better integrate with QuickBooks.\n\t\\subsection{Definitions} % (fold)\n\t\\label{sub:definitions}\n\t\t\\begin{table}[H]\n\t\t\t\\centering\n\t\t\t\\caption{acronyms and definitions}\n\t\t\t\\begin{tabularx}{0.9\\linewidth}{|l|X|}\n\t\t\t\t\\hline \\rowcolor{Cyan}\n\t\t\t\tTerm & Definition \\\\ \\hline\n\t\t\t\tVEG & Validation \\& Engineering Group \\\\ \\hline\n\t\t\t\tQB & QuickBooks \\\\ \\hline\n\t\t\t\tR & Replicon \\\\ \\hline\n\t\t\t\tQBIM & \\emph{QuickBooks Integration Manager} is a program provided by Replicon to sync data between Replicon and QuickBooks. \\\\ \\hline\n\t\t\t\tIntegration Guide & Replicon's manual for QBIM \\cite{integration} \\\\ \\hline\n\t\t\t\tMO & \\emph{Modus Operandi} is the \\emph{de facto} way of doing something. \\\\ \\hline\n\t\t\t\tSOP & \\emph{Standard Operating Procedure} is the established company procedure for doing a process. \\\\ \\hline\n\t\t\t\tPlatform & Common name for Replicon and/or QuickBooks. \\\\ \\hline\n\t\t\t\tFields & Is the nomenclature used by Replicon when referring to the data types in Replicon and QuickBooks. The QBIM will copy the data in one platform's field into the other platform's field. It will copy the data inside these fields as described by Integration Guide. The full information of the fields are in the Integration Guide. \\\\ \\hline\n\t\t\t\t\\end{tabularx}\n\t\t\\end{table}\n\t% subsection definitions (end)\n\n\n\t% \\subsection{Operation Description} % (fold)\n\t% \\label{sub:operation_description}\n\t% \t\\todo[inline]{maybe?}\n\t% subsection operation_description (end)\n\n% section introduction (end)\n\n\\section{User Requirement Specification} % (fold)\n\\label{sec:user_requirement_specification}\n\t\\begin{itemize}\n\t\t\\item Manual data entry to QuickBooks must not take no more than half a workday.\n\t\t\\item Data Integrity must be maintained and no sensitive data can be leaked to third parties.\n\t\t\\item Changes to billing process SOP should be minimal.\n\t\t\\item QBIM must be accessible for use to the Billing Process Owner and his/her backups.\n\t\\end{itemize}\n% section user_requirement_specification (end)\n\n\\section{Design Specifications} % (fold)\n\\label{sec:design_specifications}\n\n\tReplicon provides the program QBIM that connects fields between both platform that transfers data from one platform to another. This transfer can be set from one platform to another per field. QBIM will be installed in the Right Networks server where QuickBooks Desktop is installed. The account owner or account administrator of the Right Networks server will call Right Networks for an application request of the QBIM. Right Networks will install the QBIM in a per user basis. Therefore, only certain users will have access to QBIM. Installation of QBIM is free for users with Right Network's \\emph{full access pack} \\footnote{\\$25 per month per user.}. Billing Process Owner Jose Galindez and Right Network Server's Account Administrator Wanda Colon currently have this pack and will have access for QBIM.\\footnote{Wanda is the backup for Galindez in the billing process and also validates for the billing process's data entry. Ricardo has been floated as another backup but he does not have the Right Network's \\emph{full access pack} so VEG would need to incur in a monthly cost of \\$25 to have him as proper backup.} The QBIM will be configured remotely by Replicon Support through Cisco Webex with the guidance of a VEG employee trained in the SOP of the billing process done in Replicon and QuickBooks.\n\n\t\\subsection{QBIM configuration} % (fold)\n\t\\label{sub:qbim_configuration}\n\t\tQBIM will be configured in such a way that the fields are connected as shown in table \\ref{tab:field_layout}. This will sync the connected fields from one field to the other, as described in this subsection, every time the sync button is clicked in QBIM. The sync button will be clicked by Billing Process Owner, or his/her backup, every time a change is done in QB customers or QB jobs; also when the billing process starts. They will also verify that the data was transferred successfully before proceeding with the rest of the business process.\n\n\t\t\\begin{table}[H]\n\t\t\t\\center\t\t\t\t\n\t\t\t\\caption{Field Layout between Platforms}\n\t\t\t\\label{tab:field_layout}\n\t\t\t\\begin{tabularx}{0.9\\linewidth}{|c|c|X|}\n\t\t\t\t\\hline \\rowcolor{Cyan}\n\t\t\t\tReplicon & QuickBooks & Differences and note \\\\ \\hline\n\t\t\t\tClients & Customers & QB has billing address, phone numbers, etc. \\\\ \\hline\n\t\t\t\tProjects & Jobs & Replicon Projects doesn’t save the Clients name. Replicon has shorter character limit than QB (?) \\\\ \\hline\n\t\t\t\tTasks & \\centerwrap{Estimates/Invoices \\\\ (Items?)} & QB has tax and billing rate that Replicon doesn’t have. Invoices include in their description the billing period and the resource's name.\\\\ \\hline\n\t\t\t\\end{tabularx}\n\t\t\\end{table}\t\t\t\n\n\t\tR Clients and Projects will sync from QB Customers and Jobs, respectively. This done to maintain data integrity as QB Customers has information, such as billing address and phone numbers, that is not written on the R Clients \\footnote{be that because Replicon can't get that information or it is not done as SOP.}. This would potentially add that information to Replicon. There is also a bug in R Projects, that it doesn't save the client's name even if written. Transferring QB Jobs to R Projects, maintains data integrity as no new information is lost or gained in any of the two platforms. The new SOP for adding Client's information and Projects would be to create the QB Customers and Jobs and then use the QBIM to sync them to Replicon.\n\n\t\t\\sout{R Tasks will be synced as QB Items. The Billing Process Owner produces a QB Invoice in the corresponding QB job and selects the corresponding QB item to add to the created invoice. This will populate the QB invoice with the item's name, amount, description,  and custom field's information\\cite{invoice,qbconvo}. The custom field information will include information such as estimated hours and probably resource's name. Although not completely automatic,  These will lower human error considerably as the info only need to be written once in Replicon.}\n\n\t\t% In summary:\n\n\t\t% QB Customers $\\rightarrow$ R Clients\\\\\n\t\t% QB Jobs $\\rightarrow$ R Projects\\\\\n\t\t% R Tasks $\\rightarrow$ QB Items \\footnote{Still not sure what is the field name of Estimates and Invoices as they're nothing with the same name in the QB integration Guide.}\n\n\t% subsection qbim_configuration (end)\t\n\n\t\\subsection{Name Changes} % (fold)\n\t\\label{sub:name_changes}\n\n\t\tBefore syncing QuickBooks to Replicon, it is necessary for R Clients' names are identical to QB Customers' names to avoid any duplicates that would negatively effect the billing process. QB jobs' names must also be identical to their corresponding R customers' names. \n\n\t\t\\subsubsection{Janssen \\& McNeil} % (fold)\n\t\t\\label{subsub:janssen_&_mcneil}\n\t\t\tIn Replicon there is R Client called \\emph{Janssen/McNeil (Kelly WO)} which active R Projects belong to Janssen. In QuickBooks, there are the QB Customers called \\emph{Janssen (Kelly)} and \\emph{McNeil (Kelly WO)}. The latter is inactive. After having a discussion with the Account Administrator Wanda, Breaking the R Client will be break current active projects; joining the QB Customers will break data integrity. However, it is necessary to have identical names for R Clients and QB Customers. The solution will be to continue the current active projects in the R Client \\emph{Janssen/McNeil (Kelly WO)} and all new projects will be made under their corresponding new R Clients \\emph{Janssen (Kelly)} and \\emph{McNeil (Kelly)} effectively immediately.\n\t\t% subsubsection janssen_&_mcneil (end)\n\t\t\\subsubsection{BMS Beeline} % (fold)\n\t\t\\label{subsub:bms_beeline}\n\t\t\tQB Customer \\emph{BMS (Pontoon)} has it's projects being added to R client \\emph{BMS Manufacturing Company (Humacao)}. QB Customer \\emph{BMS Manufacturing Company (Humacao)} also has the projects added to the same R client. QB customer \\emph{BMS (Pontoon)} will be changed to QB customer \\emph{BMS (Beeline)} and that all it's projects are added to a new R client \\emph{BMS (Beeline)} \n\t\t% subsection bms_beeline (end)\n\t\t\\subsubsection{Kelly and other Intermediaries} % (fold)\n\t\t\\label{sub:kelly}\n\t\t\tR tasks that belong to a R projects that is billed through Kelly or other intermediary, will not be synced to QuickBooks. This is due to that Kelly and other intermediaries run biweeklies at different dates to VEG which causes problems in billing process. Also, various revisions of a project are created on Replicon which are not done in QuickBooks. Instead, the changes on those revisions are added to the project's QB job. These, projects that need these intermediaries or methods, will need to be done manually.\n\t\t% subsubsection kelly (end)\n\n\t\t\\subsubsection{Lump Sum} % (fold)\n\t\t\\label{sub:lump_sum_vs_time_&_material}\n\t\t\tCurrently QB Estimates are set to a quantity of one and invoiced by task done which is something that Replicon can't handle natively. However, Replicon Support informed that they could create custom software to make it work albeit at a cost. There also would be an issue with importing to QB hours from people under Lump Sum projects as the billing wouldn't be per hour. There wouldn't be anyway of differentiating them. Therefore, all projects that are Lump Sum will now include a \\emph{[Lump Sum]} or similar at the end of the Project Name. Considering the small volume of Lump Sum projects\\footnote{around 3-5 projects at any moment.}, we will not be asking Replicon Support for the custom software.\n\t\t% subsubsection lump_sum_vs_time_&_material (end)\t\n\n\n\t% subsection name_change (end)\n\t\\subsection{Streamline Process} % (fold)\n\t\\label{sub:streamline_process}\n\t\tA set of data, including names and billing hours, is copied from excel to their corresponding item's description field in QuickBooks. In excel the set of data is in a row where the set's data are in individual cells. When you copy Excel Rows into a text field, it separates the cells with tabs. When QuickBooks creates invoice reports, it eliminates the tabs making the copied data concatenated. To avoid this, the MO was to eliminate the tabs with five spaces. As each row has about 8 items, that would mean that 7 tabs would need to be manually eliminated and substituted with 35 spaces. This must be done for each excel row. Due to QuickBooks taking the whole screen\\footnote{QuickBooks is inside Right Networks' virtual machine which takes the whole screen.} and not utilizing the second screen, all interactions outside of QuickBooks needed to minimize QuickBooks. Also any interactions needing QuickBooks needed to maximize it. \n\n\t\tThe Program \\emph{Notepad++} has a features that automatically substitute all tabs for user-decided amount of spaces by clicking on \\emph{Edit$>$Blank Operations$>$Tab to Space}. Using the double screen layout available, one screen has QuickBooks and the second screen will be split between Notepad++ and Excel. Considering their is around 20 resources per billing process and each resource as 2-3 excel rows,  Various graphical interface interactions were substituted with faster keyboard shortcuts.\n\t\tThe Program \\emph{Notepad++} has a features that automatically substitute all tabs for user-decided amount of spaces by clicking on \\emph{Edit$>$Blank Operations$>$Tab to Space}. Using the double screen layout available, one screen has QuickBooks and the second screen will be split between Notepad++ and Excel. Various graphical interface interactions were substituted with faster keyboard shortcuts. These three changes will exponential lower billing time where manual entry is still needed.\n\n\n\t% subsection streamline_process (end)\n\n%---------------------------------------------------------\n% section design_specifications (end)\n% \\newpage\n\\appendix\n\\section{Appendix} % (fold)\n\\label{sec:Appendix}\n\n\tProject Manager's access to QuickBooks, QBIM, and Right Networks' server is dependent on the availability of the Account Owner, Account Administrator, or Billing Process Owner. Replicon Support uses Cisco Webex to to see the computer's desktop and (optionally) take control of keyboard and mouse control. Replicon Support also provides an Integration Guide if we were to choose to edit the connections or make them ourself.\n\n\t\\subsection{Alternatives} % (fold)\n\t\\label{sub:alternatives}\n\t\t\n\t\tIf the QBIM doesn't work as expected, automating data entry of invoices and hours can not be done. However, this doesn't mean that no improvement weren't made. QBIM successfully transferred many of the data fields of Customers, Employees, and projects. This eliminated the problem of non-identical names in all but some fringe cases. They do still need manual entry and validation when transferring them to Replicon as certain data wanted on Replicon doesn't have working mapping in QBIM. e.g. QB Jobs has a PO Number field that appears in QBIM but won't give you an option of Replicon field to transfer too. The cause of this problem is unknown. \n\n\t\tUsing Excel to pull the data from Replicon, organize it, and export it to QuickBooks is impossible; at least to the scope asked. You can import Customers, Vendors, Inventory Items, and Chart of Accounts\\cite{excel} but not employees, projects, or Invoices.\n\n\t\tThe best alternative would be TSheets as a substitute for Replicon. Somewhat recently bought by QuickBooks, it is much more integrated with QB to the point that QB mentions it in Time Tracking and TSheets asks to use  QuickBooks to pull job, customer, and employee data. It is highly rated and competitive with Replicon\\cite{t-v-r,t-v-r-2}. It even includes features that our current license of Replicon doesn't have as it's also TSheets include time \\& attendance. For one user (self-employed), TSheets is free. It would be an increase of annual cost in comparison to Replicon ($\\sim\\$2860$ vs $\\sim\\$5700$)\\cite{thseet-cost}. Only thing missing would be to confirm that QB's time tracking can be seamlessly transfered to Invoices.\n\n\t% subsection alternatives (end)\n\n\n\t\\subsection{QBIM Features} % (fold)\n\t\\label{sub:qbim_features}\n\t\tThese are of the data types that QBIM can transfer:\n\n\t\t\\begin{multicols}{2}\n\t\t\t\\begin{itemize}\n\t\t\t\t\\item Employees\n\t\t\t\t\\item Vendors\n\t\t\t\t\\item Customers\n\t\t\t\t\\item Jobs/Items\n\t\t\t\t\\item Accounts/Items\n\t\t\t\t\\item Time Tracking\n\t\t\t\\end{itemize}\n\t\t\\end{multicols}\n\t\t\\vspace{-1.5em}\n\t\tEach data type has various data fields inside them, e.g. Jobs are composed of the Project Name, PO number\\footnote{PO number and other data fields belonging to Projects/Jobs could not be mapped when transferring from QB to Replicon.}, Billing Rates, etc. These have to be individually added as a relationship. If only Project Name was set when transferring from QB to Replicon, It will create a R Project with Project Name but everything else would be blank. None of the other data fields from the QB Jobs would be transferred. QBIM gives you the option to choose which of each data type to sync. e.g. When syncing Customers from QB to Replicon, QBIM provides a list of QB Customers and the user can manually choose which of that list will by synced. For syncing Jobs/Items, it also gives the option to filter by billing period or by a manually set range of time. The billing period seem to be set the same billing periods set on the source platform\\footnote{The platform whose data will be copied from to another.} to be synced.\n\n\t\tR Tasks can be transferred as QB SubJobs successfully but couldn't be transferred to QB Items as it needed to be in Account\\footnote{What exactly about accounts I can't recall. It might have also have to do with not having the employee name.}. When asked about transferring the billable hours from Replicon to QuickBooks Replicon Support informed us that this is done by syncing the Time Tracking \\cite{RepSup}. However, QBIM gave off errors when that it was tried. Replicon Support recommended to cal QB Support as the error mentioned that the time tracking features might not available or activated in the QB version.\n\n\t\t\\begin{figure}[H]\n\t\t\t\\centering\n\t\t\t\\includegraphics[width=0.9\\textwidth]{menu.png}\n\t\t\t\\caption{QBIM interface\\cite{figref}}\n\t\t\t\\label{fig:QBIM_menu}\n\t\t\\end{figure}\n\n\t\t\\subsubsection{Troubleshooting Time Tracking} % (fold)\n\t\t\\label{subsub:troubleshooting_time_tracking}\n\t\t\t\n\t\t\tTransferring Time Tracking necessitates that the relevant data from both platforms are identical. You can choose to pull the data for billing and/or payroll process. Have the options to filter between billing/non-billing. When choosing which users/employees to transfer their tracked time, you can filter with the list with various Replicon categories such as managers. The date range to transfer can either be a specified billing period of Replicon or a manually selected from/to dates.\n\n\t\t% subsubsection troubleshooting_time_tracking (end)\n\n\t% subsection qbim_features (end)\n\n\t\\subsection{Looming Questions} % (fold)\n\t\\label{sec:looming_questions}\n\t\n\t\t\\subsubsection{R Tasks to QB invoices?} % (fold)\n\t\t\\label{sub:replicon_tasks_to_}\n\t\t\t\\sout{R Tasks can be transferred in QB as Items and Sub jobs. These items are required for Invoices, Estimates, and Purchase Orders \\cite{invoice-item}.} However, whether the Invoices would be automatically created or would it manually be created and then choose the corresponding item, is still unknown. However, it seems to be better practice to use items in QB as it seems to give higher flexibility on how to use that data and how it can be used for more meaningful data export \\cite{expense-item}.\n\t\t\t% \\begin{itemize}\n\t\t\t% \t\\item R tasks can't be automatically transferred to QB invoices, making it incapable to automatize the most time consuming part of the billing process. Only the creation of projects and client info would be automatized. There is still the possibility that R tasks could be exported as an Excel File and then imported to QB. QB has a import functionality that can take an excel file structured in a specific way and import the data in the excel file into QB as invoices. This would need use of Microsoft's advance Excel features and more training for the billing process owner. However, it should decrease manual data entry and the risk of user error.\n\t\t\t% \t\\item R tasks are transferred to QB invoices but does not include the billing period nor the resource's name. This would save a considerable amount of time but would still need manual data entry in the description.\n\t\t\t% \t\\item R tasks are transferred to QB invoices with billing period and resource's name. This could realistically be as a custom field or in the description field. If it were in a custom field, it would a simple task of copy pasting inside QuickBooks. Ideally, it would be written to the description field from the start, eliminating any need for manual data entry.\n\t\t\t% \\end{itemize}\n\n\n\t\t% subsubsection replicon_tasks_to_ (end)\n\t\t\t\n\t\t\\subsubsection{Change Orders} % (fold)\n\t\t\\label{sub:change_orders}\n\t\t\tIf one of our projects time gets extended, the MO is to increase the max hours in Replicon. However, there is also the option to make a new task instead. How would QBIM and QB handle this? Will the max hours of the estimate also be increase or would it need to be done manually?\n\t\t% subsubsection change_orders (end)\n\t\t% \\clearpage\n\t\t\\subsubsection{Two or More Employees per Project} % (fold)\n\t\t\\label{sub:two_or_more_employees_per_project}\n\t\t\tReplicon\n\t\t\t\\vspace*{-0.75cm}\n\t\t\t\\begin{itemize}\n\t\t\t\t\\item one project\n\t\t\t\t\\item a task per employee\n\t\t\t\\end{itemize}\n\t\t\t\\vspace{-2em}\n\t\t\tQuickBooks\n\t\t\t\\vspace*{-0.75cm}\n\t\t\t\\begin{itemize}\n\t\t\t\t\\item one project\n\t\t\t\t\\item one estimate\n\t\t\t\t\\begin{itemize}\n\t\t\t\t\t\\item various time inside\n\t\t\t\t\\end{itemize}\n\t\t\t\t\\item biweekly invoices per employee\n\t\t\t\\end{itemize}\n\t\t% subsubsection 2_or_more_employees_per_project (end)\n\n\n\t% subsection looming questions (end)\n% section Appendix (end)\n\n% \\begin{thebibliography}{99}\n% \t\\bibitem{integration}\n% \tReplicon. Replicon Integration Manager for QuickBooks. Revision Nov 12, 2015. \\url{https://www.replicon.com/customer-zone2/product-documentation/}\n% \t\\bibitem{invoice-item}\n% \tDiane Gilson, Certified Advanced QuickBooks ProAdvisor. QuickBooks Items: The Secret to QuickBooks Job-Costing. Retrieved from \\url{https://www.buildyournumbers.com/quickbooks-items-secret-to-quickbooks-job-costing/}\n% \t\\bibitem{expense-item}\n% \tLuke Arthur. (2019). What Is the Difference Between an Expense \\& an Item in Quickbooks?. Retrieved from \\url{https://smallbusiness.chron.com/difference-between-expense-item-quickbooks-33465.html}\n% \t\\bibitem{qbconvo}\n% \tJon R, QuickBooks Support. message conversation. February 11, 2019\n% \t\\bibitem{invoice}\n% \tReplicon. Create an invoice in QuickBooks Desktop. Retreived from \\url{https://quickbooks.intuit.com/community/Income-and-expenses/Create-an-invoice-in-QuickBooks-Desktop/td-p/186058}\n% \\end{thebibliography}\n\\vspace{-1em}\n\\nocite{*}\n\\printbibliography\n\n\\end{document}\n\n% replicon support problem with names \n% [Edvin Alvarado Velez] doesn't exist\n\n\n% Tsheets time trackin\n\n\n% trasnfer emplpoyees, projects, and tasks\n",
+					"file": "Integration.tex",
+					"file_size": 23916,
+					"file_write_time": 131963789018747194,
 					"settings":
 					{
-						"buffer_size": 7137,
-						"encoding": "UTF-8",
+						"buffer_size": 23623,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "ref.bib",
+					"file": "reference.bib",
 					"settings":
 					{
-						"buffer_size": 517,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/B/eskalvarado/Google Drive/University/2nd year - 2nd semester/Differential Equation/two diferential equation solver.py",
-					"settings":
-					{
-						"buffer_size": 867,
+						"buffer_size": 2306,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				}
 			],
-			"build_system": "",
+			"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 			"build_system_choices":
 			[
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						]
-					],
-					[
-						"Packages/C++/C++ Single File.sublime-build",
-						"Run"
-					]
-				],
 				[
 					[
 						[
@@ -653,6 +596,10 @@
 						[
 							"Packages/LaTeXTools/LaTeX.sublime-build",
 							"Script Builder"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
 						]
 					],
 					[
@@ -675,121 +622,117 @@
 						"Packages/Python/Python.sublime-build",
 						""
 					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
 				]
 			],
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 269.0,
+				"height": 0.0,
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"build",
+						"Build With: LaTeX - Basic Builder - PdfLaTeX"
+					],
 					[
 						"pdf",
 						"LaTeXTools: View PDF"
 					],
 					[
-						"bib",
-						"Build: New Build System"
-					],
-					[
-						"buil",
-						"Build With: LaTeX - Basic Builder"
-					],
-					[
-						"bu",
-						"Build With: LaTeX - Traditional"
-					],
-					[
-						"bui",
-						"Build With: LaTeX - Script Builder"
-					],
-					[
-						"preview",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"brows",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"markdow",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"text",
-						"Set Syntax: Plain Text"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"lpdf",
-						"LaTeXTools: Open Detexify"
-					],
-					[
-						"PDF",
-						"LaTeXTools: View PDF"
-					],
-					[
-						"comme",
-						"Toggle Comment"
-					],
-					[
-						"under",
-						"Snippet: Underline text"
-					],
-					[
-						"figure",
+						"figur",
 						"Snippet: figure"
 					],
 					[
-						"remar",
-						"Snippet: Remark"
-					],
-					[
-						"tabul",
-						"Snippet: Tabular"
-					],
-					[
-						"graph",
-						"Snippet: Include graphics"
-					],
-					[
-						"figu",
+						"figure\t",
 						"Snippet: Figure"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"wrap ",
+						"Word Wrap: Toggle"
+					],
+					[
+						"",
+						"Arithmetic"
 					],
 					[
 						"insta",
 						"Package Control: Install Package"
 					],
 					[
-						"fig",
-						"Snippet: figure"
+						"Package Control: ",
+						"Package Control: List Packages"
 					],
 					[
-						"todo",
-						"Snippet: todo"
+						"decod",
+						"LaTeX Accents: Decode accents"
 					],
 					[
-						"section",
-						"Snippet: Section"
+						"accent",
+						"LaTeX Accents: Encode accents"
 					],
 					[
-						"comm",
-						"Toggle Comment"
-					],
-					[
-						"install",
+						"ins",
 						"Package Control: Install Package"
 					],
 					[
-						"Package Control: ins",
+						"inst",
 						"Package Control: Install Package"
+					],
+					[
+						"isnta",
+						"Package Control: Install Package"
+					],
+					[
+						"xe",
+						"Build With: LaTeX - Basic Builder - XeLaTeX"
+					],
+					[
+						"xete",
+						"Build With: LaTeX - Basic Builder - XeLaTeX"
+					],
+					[
+						"check",
+						"LaTeXTools: Check system"
+					],
+					[
+						"latex",
+						"Snippet: Insert a LaTeX environment"
+					],
+					[
+						"pytho",
+						"Build With: Python - Syntax Check"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Lorem ipsum"
 					]
 				],
-				"width": 476.0
+				"width": 0.0
 			},
 			"console":
 			{
@@ -807,93 +750,81 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Report"
+			],
 			"file_history":
 			[
-				"/B/eskalvarado/Google Drive/University/resume/resume.tex",
-				"/B/eskalvarado/Google Drive/Python/debrujin]/deburjin.py",
-				"/B/eskalvarado/Google Drive/Python/debrujin]/failed sequence maker.py",
-				"/B/eskalvarado/Google Drive/Python/debrujin]/number reads.py",
-				"/B/eskalvarado/Google Drive/University/2nd year - 2nd semester/Differential Equation/two diferential equation solver.py",
-				"/B/eskalvarado/Google Drive/University/2nd year - 2nd semester/Differential Equation/Couple First Order Differential Equations/Couple 1st-order Diff Eq Notes.tex",
-				"/B/eskalvarado/Google Drive/Python/Modular-Tax-Calculator/tax calculator.py",
-				"/B/eskalvarado/Google Drive/essays/Basic-Progressive-Tax-Model/README.md",
-				"/B/eskalvarado/Google Drive/essays/Basic-Progressive-Tax-Model/Progressive Tax Model.tex",
-				"/B/eskalvarado/Google Drive/essays/Basic-Progressive-Tax-Model/Progressive Tax.ggb",
-				"/B/eskalvarado/Google Drive/essays/Tax Model/taxmodel.sublime-project",
-				"/B/eskalvarado/Google Drive/University/Statistical Methods/Goodness-of-Fit/README.md",
-				"/B/eskalvarado/Google Drive/University/Statistical Methods/Goodness-of-Fit/test-list.py",
-				"/B/eskalvarado/Google Drive/University/Statistical Methods/Goodness-of-Fit/test.py",
-				"/B/eskalvarado/Google Drive/University/Statistical Methods/Goodness-of-Fit/goodnes-of-fit.py",
-				"/B/eskalvarado/Google Drive/University/Statistical Methods/goodness-of-fit.sublime-project",
-				"/B/eskalvarado/Google Drive/Python/intarray.py",
-				"/B/eskalvarado/Downloads/test.py",
-				"/B/eskalvarado/Google Drive/Python/Print Numbers Poisson/testfile.txt",
-				"/B/eskalvarado/Google Drive/Python/Print Numbers Poisson/write-numbers.py",
-				"/B/eskalvarado/Google Drive/Python/Organize data to single column/list.txt",
-				"/B/eskalvarado/Google Drive/Python/Organize data to single column/data.txt",
-				"/B/eskalvarado/Google Drive/Python/Organize data to single column/single-column.py",
-				"/B/eskalvarado/Google Drive/Python/writing equation data points/dataset.txt",
-				"/B/eskalvarado/Google Drive/Python/writing equation data points/graphdata.py",
-				"/B/eskalvarado/Google Drive/Python/writing equation data points/datapoint.py",
-				"/B/eskalvarado/Google Drive/University/4th year - 1st semester/Heat Transfer Operations/air conditioner simulation.py",
-				"/C/Users/eskalvarado/Desktop/test.cs",
-				"/B/eskalvarado/Google Drive/essays/Tax Model/Tsx Model.tex",
-				"/B/eskalvarado/Google Drive/latex/report template.tex",
-				"/B/eskalvarado/Google Drive/Python/CommonCharacterCount.py",
-				"/B/eskalvarado/Google Drive/Python/IncreasingSequenceProof.py",
-				"/B/eskalvarado/Google Drive/Python/SortByHeight.py",
-				"/B/eskalvarado/Downloads/SortbyHeight.cpp",
-				"/B/eskalvarado/Google Drive/Python/determinant of a matrix/classes/sarrus.py",
-				"/B/eskalvarado/Google Drive/Python/determinant of a matrix/rule of sarruss.py",
-				"/B/eskalvarado/Google Drive/Python/determinant of a matrix/test.py",
-				"/B/eskalvarado/Google Drive/Python/determinant of a matrix/determinant of matrix.py",
-				"/B/eskalvarado/Google Drive/Python/determinant of a matrix/classes/matrix.py",
-				"/B/eskalvarado/Google Drive/Python/determinant of a matrix/classes/__init__.py",
-				"/B/eskalvarado/Google Drive/University/resume/skills.txt",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/Default (Windows).sublime-keymap",
-				"/B/eskalvarado/Google Drive/Python/file manegment testing/output.txt",
-				"/B/eskalvarado/Google Drive/Python/file manegment testing/data.txt",
-				"/B/eskalvarado/Google Drive/Python/file manegment testing/main.py",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/math parenthesis.sublime-snippet",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/math bracket.sublime-snippet",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/lsymbol.sublime-snippet",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/graphics.sublime-snippet",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/fraction.sublime-snippet",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/flowd.sublime-snippet",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/derivative.sublime-snippet",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/partial.sublime-snippet",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/defintion.sublime-snippet",
-				"/C/Users/eskalvarado/AppData/Roaming/Sublime Text 3/Packages/User/align.sublime-snippet",
-				"/B/eskalvarado/Google Drive/University/Bioseperations/Notebook/Bioseparations notebook.tex",
-				"/C/Users/silry/AppData/Roaming/Sublime Text 3/Packages/User/derivative.sublime-snippet",
-				"/C/Users/silry/AppData/Roaming/Sublime Text 3/Packages/User/defintion.sublime-snippet",
-				"/C/Users/silry/AppData/Roaming/Sublime Text 3/Packages/User/fraction.sublime-snippet",
-				"/C/Users/silry/AppData/Roaming/Sublime Text 3/Packages/User/todo inline.sublime-snippet",
-				"/C/Users/silry/AppData/Roaming/Sublime Text 3/Packages/User/todo.sublime-snippet",
-				"/C/Users/silry/AppData/Roaming/Sublime Text 3/Packages/User/lsymbol.sublime-snippet",
-				"/C/Users/silry/AppData/Roaming/Sublime Text 3/Packages/User/graphics.sublime-snippet",
-				"/C/Users/silry/AppData/Roaming/Sublime Text 3/Packages/User/align.sublime-snippet",
-				"/C/Users/silry/AppData/Roaming/Sublime Text 3/Packages/User/flowd.sublime-snippet",
-				"/C/Users/silry/Google Drive/University/INQU lab1/Viscosity Report/table 3.bib",
-				"/C/Users/silry/Google Drive/University/INQU lab1/Viscosity Report/Viscosity Report.tex",
-				"/C/Users/silry/edvin.alvarado@upr.edu/Edvin5995/Documents/Peer Review (WIP)/concetration profile.py"
+				"/E/test.tmp",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/User/figures.sublime-snippet",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Report/menu.PNG",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/User/graphics.sublime-snippet",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Data Extractors/QB Reports.py",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/R",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Data Extractors/R Project Billing.py",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Data Extractors/R Projects Detail.py",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Data Extractors/Book2.xlsx",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Projects.txt",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/data-scrubber.py",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Replicon projects with date.csv",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Project Task Assignment Details 2019-02-18.csv",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Report/reference.bib",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Report/Integration.tex",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/csv data scrubber.py",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Project Billing 2019-02-13.xml",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Report/URS.sublime-project",
+				"/C/Users/Edvin Alvarado/Desktop/QB need to change",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/QB Projects.xlsx",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Project Billing 2019-02-12.xml",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Replicon Project Power Query/csv-output.txt",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Replicon Project Power Query/Project Billing 2019-02-12.csv",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Replicon Project Power Query/csv-scrubber.py",
+				"/C/Users/Edvin Alvarado/Downloads/Solar.tex",
+				"/C/Users/Edvin Alvarado/Downloads/Project Billing 2019-02-12.xml",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Report/Integration.log",
+				"/C/Users/Edvin Alvarado/Downloads/CBA.tex",
+				"/C/Users/Edvin Alvarado/Desktop/PaginationClass.py",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/User/Default/Default (Windows).sublime-keymap",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/Default (Windows).sublime-keymap",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/C/Users/Edvin Alvarado/Desktop/Edvin5995/Documents/table 3 (WIP)/Henry.py",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/User/vocabulary.txt",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/LaTeX Word Count/LaTeXWordCount.sublime-settings",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXWordCount.sublime-settings",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/LaTeXTools.sublime-settings",
+				"/C/Users/Edvin Alvarado/Downloads/data-pandas.py",
+				"/C/Users/Edvin Alvarado/Desktop/digroot.py",
+				"/C/Users/Edvin Alvarado/Downloads/data.txt",
+				"/C/Users/Edvin Alvarado/Downloads/learning.py",
+				"/C/Users/Edvin",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Alvarado/PythonEditorWrapper_f5f3e875-43c3-4bda-95dc-8f1efa99a70e/PythonEditorWrapper.PY",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Alvarado/PythonEditorWrapper_e7baf576-d5ac-4b81-9090-3baeb63a62d3/PythonEditorWrapper.PY",
+				"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Alvarado/PythonEditorWrapper_b7e2b9c3-b28e-415d-bea0-65dc1d86587e/PythonEditorWrapper.PY",
+				"/C/Users/Edvin Alvarado/Desktop/test.py",
+				"/C/Users/Edvin Alvarado/Desktop/python/fillarea.py",
+				"/C/Users/Edvin Alvarado/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings"
 			],
 			"find":
 			{
-				"height": 40.0
+				"height": 44.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 319.0,
 				"where_history":
 				[
 				]
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
+					"right",
+					"network",
+					"8452"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -911,29 +842,44 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "Couple 1st-order Diff Eq Notes.tex",
+							"file": "Integration.tex",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 7137,
+								"buffer_size": 23623,
 								"regions":
 								{
+									"better_bookmarks":
+									{
+										"flags": 144,
+										"icon": "Packages/Theme - Default/common/bookmark.png",
+										"regions":
+										[
+										],
+										"scope": "string"
+									}
 								},
 								"selection":
 								[
 									[
-										1139,
-										1098
+										74,
+										74
 									]
 								],
 								"settings":
 								{
-									"SL.14.region_keys":
+									"SL.13.region_keys":
+									[
+									],
+									"SL.21.region_keys":
+									[
+									],
+									"SL.34.region_keys":
 									[
 									],
 									"bracket_highlighter.busy": false,
@@ -942,27 +888,12 @@
 									{
 										"close":
 										{
-											"1":
-											[
-												1131,
-												1138
-											]
 										},
 										"icon":
 										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/tag.png",
-												"region.orangish"
-											]
 										},
 										"open":
 										{
-											"1":
-											[
-												1105,
-												1112
-											]
 										},
 										"unmatched":
 										{
@@ -970,247 +901,26 @@
 									},
 									"bracket_highlighter.clone_regions":
 									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												1131,
-												1138
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/tag.png",
-												"region.orangish"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												1105,
-												1112
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content"
-									],
-									"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 4158.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "ref.bib",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 517,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										249,
-										249
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												188,
-												189
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"region.purplish"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												8,
-												9
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
@@ -1226,20 +936,153 @@
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
-										"bh_square_content"
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
 									],
 									"bracket_highlighter.locations":
 									{
 										"close":
 										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"git_gutter_is_enabled": false,
+									"markdonw_live_preview_last_run": 1552052184.26,
+									"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 450.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "reference.bib",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2306,
+								"regions":
+								{
+									"better_bookmarks":
+									{
+										"flags": 144,
+										"icon": "Packages/Theme - Default/common/bookmark.png",
+										"regions":
+										[
+										],
+										"scope": "string"
+									}
+								},
+								"selection":
+								[
+									[
+										2304,
+										2304
+									]
+								],
+								"settings":
+								{
+									"SL.15.region_keys":
+									[
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
 											"1":
 											[
-												251,
-												252
+												2274,
+												2275
 											]
 										},
 										"icon":
@@ -1254,36 +1097,51 @@
 										{
 											"1":
 											[
-												8,
-												9
+												2172,
+												2173
 											]
 										},
 										"unmatched":
 										{
 										}
 									},
-									"bracket_highlighter.regions":
+									"bracket_highlighter.clone_regions":
 									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
@@ -1294,11 +1152,69 @@
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2305,
+												2306
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												2172,
+												2173
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
@@ -1309,18 +1225,33 @@
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content"
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
 									],
-									"markdonw_live_preview_last_run": 1537810779.31,
+									"markdonw_live_preview_last_run": 1552052184.28,
 									"syntax": "Packages/LaTeXTools/BibLaTeX.tmLanguage",
 									"translate_tabs_to_spaces": false
 								},
@@ -1328,188 +1259,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/B/eskalvarado/Google Drive/University/2nd year - 2nd semester/Differential Equation/two diferential equation solver.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 867,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										387,
-										387
-									]
-								],
-								"settings":
-								{
-									"SL.16.region_keys":
-									[
-									],
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content"
-									],
-									"markdonw_live_preview_last_run": 1537810673.18,
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 162.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -1517,11 +1267,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 34.0
 			},
 			"input":
 			{
-				"height": 94.0
+				"height": 109.0
 			},
 			"layout":
 			{
@@ -1552,26 +1302,26 @@
 			},
 			"output.exec":
 			{
-				"height": 476.0
+				"height": 91.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
+			"output.languagetool":
+			{
+				"height": 180.0
+			},
 			"output.latextools":
 			{
-				"height": 213.0
-			},
-			"output.markdown":
-			{
-				"height": 132.0
+				"height": 130.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,1019,90,120,1320",
-			"project": "couple first order diff eq.sublime-project",
+			"position": "0,2,3,-32093,-32000,-1,-1,1007,1732,621,2714",
+			"project": "URS.sublime-project",
 			"replace":
 			{
-				"height": 52.0
+				"height": 80.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1609,41 +1359,30 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 256.0,
+			"side_bar_width": 50.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 51,
-			"workspace_name": "/B/eskalvarado/Google Drive/University/2nd year - 2nd semester/Differential Equation/Couple First Order Differential Equations/couple first order diff eq.sublime-workspace"
+			"window_id": 61,
+			"workspace_name": "/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Report/URS.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/B/eskalvarado/Google Drive/University/2nd year - 2nd semester/Differential Equation/Couple First Order Differential Equations/couple first order diff eq.sublime-workspace",
-			"/B/eskalvarado/Google Drive/Python/Modular-Tax-Calculator/tax-calculator.sublime-workspace",
-			"/B/eskalvarado/Google Drive/essays/Basic-Progressive-Tax-Model/taxmodel.sublime-workspace",
-			"/B/eskalvarado/Google Drive/essays/Tax Model/taxmodel.sublime-workspace",
-			"/B/eskalvarado/Google Drive/University/Statistical Methods/Goodness-of-Fit/goodness-of-fit.sublime-workspace",
-			"/B/eskalvarado/Google Drive/Programming/Markdown/webpage.sublime-workspace",
-			"/B/eskalvarado/Google Drive/University/Statistical Methods/goodness-of-fit.sublime-workspace",
-			"/B/eskalvarado/Google Drive/Python/Iterator/iterate-solution/iterator.sublime-workspace",
-			"/B/eskalvarado/Google Drive/Python/Iterator/iterator.sublime-workspace",
-			"/B/eskalvarado/Google Drive/Python/Organize data to single column/single-column.sublime-workspace",
-			"/B/eskalvarado/Google Drive/Python/writing equation data points/datapoint.sublime-workspace",
-			"/B/eskalvarado/Google Drive/Python/Print Numbers Poisson/write-numbers-prj.sublime-workspace",
-			"/B/eskalvarado/Google Drive/University/4th year - 1st semester/Heat Transfer Operations/AC simulation.sublime-workspace",
-			"/B/eskalvarado/Google Drive/Python/determinant of a matrix/determinant of matrix.sublime-workspace",
-			"/B/eskalvarado/Google Drive/University/resume/resume.sublime-workspace",
-			"/B/eskalvarado/Google Drive/University/INQU lab1/Viscosity Report/visocsity project.sublime-workspace",
-			"/C/Users/eskalvarado/University Drive/Edvin5995/Documents/table 3 (WIP)/table 3 report/table3.sublime-workspace",
-			"/C/Users/eskalvarado/University Drive/Edvin5995/Documents/Peer Review (WIP)/report (WIP)/main project.sublime-workspace",
-			"/B/eskalvarado/Google Drive/Python/file manegment testing/averageing.sublime-workspace",
-			"/B/eskalvarado/Google Drive/University/INQU lab1/Vertedores/report/weir.sublime-workspace",
-			"/B/eskalvarado/Google Drive/University/INQU lab1/Vertedores/report/Weir Report.sublime-workspace",
-			"/B/eskalvarado/Google Drive/University/Bioseperations/Notebook/biosep-notebook.sublime-workspace"
+			"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Report/URS.sublime-workspace",
+			"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/markov_chain/markov.sublime-workspace",
+			"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Sums Pay/sumpay.sublime-workspace",
+			"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Data Extractors/data-extraction.sublime-workspace",
+			"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Projects-Jobs.sublime-workspace",
+			"/C/Users/Edvin Alvarado/Google Drive/resume/resume.sublime-workspace",
+			"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Replicon-QuickBooks Project/Replicon-data-extractors.sublime-workspace",
+			"/C/Users/Edvin Alvarado/OneDrive - Validation & Engineering Group/Report/URS.sublime-workspace",
+			"/C/Users/Edvin Alvarado/Desktop/Edvin5995/Documents/Peer Review (WIP)/report (WIP)/main project.sublime-workspace",
+			"/C/Users/Edvin Alvarado/Desktop/Edvin5995/Documents/Peer Review (WIP)/concetration profile.sublime-workspace",
+			"/C/Users/Edvin Alvarado/Desktop/Edvin5995/Documents/table 3 (WIP)/table 3 report/table3.sublime-workspace"
 		]
 	}
 }
