@@ -28,6 +28,7 @@
 		"MarkdownLivePreview",
 		"MarkdownPreview",
 		"Package Control",
+		"PackageResourceViewer",
 		"requirementstxt",
 		"SideBarEnhancements",
 		"SQLTools",
@@ -36,6 +37,7 @@
 		"SublimeLinter-clang",
 		"SublimeLinter-pycodestyle",
 		"SublimeLinter-pyflakes",
+		"SublimeREPL",
 		"Terminal"
 	]
 }
