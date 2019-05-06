@@ -2,7 +2,7 @@
 {
 	"linters": {
 		"pycodestyle": {
-			"filter_errors": ["W191", "E501", "E117", "E302", "W292"],
+			"filter_errors": ["W191", "E501", "E117", "E302", "W292", "W391"],
 		}
 	}
 }
