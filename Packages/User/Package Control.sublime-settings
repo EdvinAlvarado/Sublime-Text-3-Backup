@@ -12,6 +12,7 @@
 		"AutoHotkey",
 		"Better Bookmarks",
 		"BracketHighlighter",
+		"Clang Format",
 		"Color Highlighter",
 		"ColorPicker",
 		"Djaneiro",
@@ -36,8 +37,8 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-clang",
+		"SublimeLinter-contrib-clang-tidy",
 		"SublimeLinter-pycodestyle",
-		"SublimeLinter-pyflakes",
 		"SublimeREPL",
 		"Terminal"
 	]

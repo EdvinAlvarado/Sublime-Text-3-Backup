@@ -11,8 +11,8 @@
 			"shell_cmd": "g++ --std=c++11 -Wall \"${file}\" -o \"${file_path}/${file_base_name}\" && \"${file_path}/${file_base_name}\""
 		},
 		{
-			"name": "curses",
-			"shell_cmd": "gcc --std=c++11 \"${file}\" -o \"${file_path}/${file_base_name}\" -lncurses ",
+			"name": "ncurses",
+			"shell_cmd": "g++ --std=c++11 -Wall \"${file}\" -o \"${file_path}/${file_base_name}\" -lncurses ",
 		}
 
 	]

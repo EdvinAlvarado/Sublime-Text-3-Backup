@@ -3,6 +3,12 @@
 	"linters": {
 		"pycodestyle": {
 			"filter_errors": ["W191", "E501", "E117", "E302", "W292", "W391"],
+		},
+		"clang++": {
+			"args": ["--std=c++11"]
+		},
+		"clang": {
+			"args": ["--std=c++11", "-Wall", "-fsyntax-only", "-fno-caret-diagnostics"]
 		}
 	}
 }
